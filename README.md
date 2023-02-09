@@ -9,6 +9,11 @@ I prticulaltry enjoy keeping up to date with innovative technologies. Some tech 
 
 I'm currently working on a new portfolio site that will include a blog where I'll share more of my experiences/learnings with these various technologies.
 
+### Contact:
+
+Discord: @deevolution#9729
+Telegram: 
+
 ### Skills:
 
 **Languages:**
@@ -28,8 +33,9 @@ I'm currently working on a new portfolio site that will include a blog where I'l
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/backbonejs/backbonejs-original.svg" title="Backbone" alt="Backbone" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/></a> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></a> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_metamask.png" alt="Metamask" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/kroim/profile/master/icons/icon_truffle.png" alt="Truffle" width="40" height="40"/></a>
 </p>
