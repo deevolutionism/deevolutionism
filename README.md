@@ -30,6 +30,8 @@ Discord: @deevolution#9729
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/></a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/></a>
+  <img src="https://testing-library.com/img/logo-large.png" title="Testing Library" alt="Testing Library" width="40" height="40"/></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/backbonejs/backbonejs-original.svg" title="Backbone" alt="Backbone" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/></a> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></a>
