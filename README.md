@@ -12,7 +12,6 @@ I'm currently working on a new portfolio site that will include a blog where I'l
 ### Contact:
 
 Discord: @deevolution#9729
-Telegram: 
 
 ### Skills:
 
