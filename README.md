@@ -52,6 +52,8 @@ Discord: @deevolution#9729
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/></a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deevolutionism)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🌐 Find me on the internet:
 
 [Linkedin](https://linkedin.com/in/gentry-demchak) |
