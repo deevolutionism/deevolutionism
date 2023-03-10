@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 👨‍💻 Summary
-I'm Gentry, a front end engineer with about 4-5 YoE building apps of various sizes. I've done everything from build and deploy quick microsites using a Vue/Mongo/heroku stack to contributing to large scale code bases at ASCAP (Backbone, Vue) and GAP (Typescript/React/Node). Proficient in React and Vue and have used/experimented with many frameworks and libraries such as meteor, backbone, jquery, django, php/wordpress, rails among others in the past. Recently picked up Typescript! I'd describe myself as constantly curious, driven by learning new things. 
+I'm Gentry, a front end engineer with about 4-5 YoE building web apps. I love and am driven by the ethos of the web! I've gained broad experience in a variety of javascript based stacks (MERN, MEVN). Proficient in React and Vue, but have also used/experimented with a wide variety of frameworks, libraries, and languages such as python/django/flask, c# (unity), c (arduino), meteor, backbone, jquery, php/wordpress, rails, just to name a few. Recently picked up Typescript! 
 
 I prticularly enjoy keeping up to date with innovative technologies. Some tech i've recently been playing around with/learning about:
 
