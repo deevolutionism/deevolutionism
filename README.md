@@ -3,7 +3,7 @@
 ## 👨‍💻 Summary
 I'm Gentry, a front end engineer with about 4-5 YoE building web apps. I love and am driven by the ethos of the web! I've gained broad experience in a variety of javascript based stacks (MERN, MEVN). Proficient in React and Vue, but have also dabbled with a wide variety of frameworks, libraries, and languages such as python/django/flask, c# (unity), c (arduino), meteor, backbone, jquery, php/wordpress, rails, just to name a few.
 
-I enjoy keeping up to date with innovative technologies. Some tech thats on my radar:
+I enjoy keeping up to date with innovative technologies. Some tech thats on my radar 🛰:
 
 ***
 • Bitcoin 
