@@ -54,7 +54,7 @@ Discord: @deevolution#9729
 
 ### 🌐 Find me on the internet:
 
-[website](https://portfolio.gentrydemchak.com) |
+[Website](https://portfolio.gentrydemchak.com) |
 [Linkedin](https://linkedin.com/in/gentry-demchak) |
 [DevPost](https://devpost.com/deevolutionism) |
 [Dev.to](https://dev.to/deevolutionism) |
