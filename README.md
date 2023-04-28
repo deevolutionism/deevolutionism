@@ -9,7 +9,7 @@ I prticularly enjoy keeping up to date with innovative technologies. Some tech i
 
 ### 🔔 Contact:
 
-Discord: @deevolution#9729
+[📥 DM on Discord](https://discord.com/users/deevolution#9729)
 
 ### 🧰 Skills:
 
