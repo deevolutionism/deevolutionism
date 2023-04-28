@@ -5,7 +5,21 @@ I'm Gentry, a front end engineer with about 4-5 YoE building web apps. I love an
 
 I enjoy keeping up to date with innovative technologies. Some tech thats on my radar:
 
-***• Bitcoin • Ethereum • Polygon/Matic • NFTs/EIP-721 • Nostr • NeRFs • ChatGPT • Stable Diffusion • MidJourney • Blender***
+***
+• Bitcoin 
+• Ethereum 
+• Polygon/Matic 
+• NFTs/EIP-721 
+• Nostr 
+• NeRFs 
+• ChatGPT 
+• Stable Diffusion 
+• MidJourney 
+• Blender 
+• Svelte
+• Solidjs
+• Ordinals
+***
 
 ### 🔔 Contact:
 
