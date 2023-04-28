@@ -7,8 +7,6 @@ I prticularly enjoy keeping up to date with innovative technologies. Some tech i
 
 ***• Bitcoin • Ethereum • Polygon/Matic • NFTs/EIP-721 • Nostr • NeRFs • ChatGPT • Stable Diffusion • MidJourney • Blender***
 
-I'm currently working on a new portfolio site that will include a blog where I'll share more of my experiences/learnings with these various technologies.
-
 ### 🔔 Contact:
 
 Discord: @deevolution#9729
@@ -56,6 +54,7 @@ Discord: @deevolution#9729
 
 ### 🌐 Find me on the internet:
 
+[website](https://portfolio.gentrydemchak.com) |
 [Linkedin](https://linkedin.com/in/gentry-demchak) |
 [DevPost](https://devpost.com/deevolutionism) |
 [Dev.to](https://dev.to/deevolutionism) |
