@@ -73,10 +73,7 @@ I enjoy keeping up to date with innovative technologies. Some tech thats on my r
 [Linkedin](https://linkedin.com/in/gentry-demchak) |
 [DevPost](https://devpost.com/deevolutionism) |
 [Dev.to](https://dev.to/deevolutionism) |
-[StackOverflow](https://stackoverflow.com/users/4271729/deevolution) |
-[Instagram](https://instagram.com/deevolutionism) |
-[Twitter](https://twitter.com/demchak17) |
-[Medium](https://medium.com/@deevolutionism) |
+[StackOverflow](https://stackoverflow.com/users/4271729/deevolution)
 
 ## 🚀 Notable projects:
 
